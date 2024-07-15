@@ -1,3 +1,4 @@
+<img align="center" alt="Coding" height="700" width="1000" src="https://firebasestorage.googleapis.com/v0/b/expense-tracjer-a20e3.appspot.com/o/github_profile.gif?alt=media&token=784e50f4-62d3-4da1-b6f7-c5b99d0832b3">
 <h1 align="center">Hi 👋, I'm Sugam Tripathi</h1>
 <h3 align="center">Bridging Electronics and Code</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
